@@ -84,7 +84,7 @@ The Monthly Expenses and Income Tracker is a web application built using Angular
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE.md).
+This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 

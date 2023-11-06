@@ -18,25 +18,34 @@ The Monthly Expenses and Income Tracker is a web application built using Angular
    git clone https://github.com/RachamallaYeswanthReddy/monthly-expenses-income-tracker.git
    ```
 
-2. Navigate to the project directory:
+
+2. Create the new angular :
+   ```bash
+   ng new montly-expenses-income-tracer
+   ```
+
+3. Navigate to the project directory:
 
    ```bash
    cd monthly-expenses-income-tracker
    ```
 
-3. Install dependencies:
+4. Install dependencies:
 
    ```bash
    npm install
    ```
 
-4. Start the application:
+5. Replace the src folder with my clone src folder
+
+
+6. Start the application:
 
    ```bash
    ng serve
    ```
 
-5. Open your web browser and access the application at [http://localhost:4200](http://localhost:4200).
+7. Open your web browser and access the application at [http://localhost:4200](http://localhost:4200).
 
 ## Screenshots
 

@@ -52,8 +52,6 @@ The Monthly Expenses and Income Tracker is a web application built using Angular
 
 ## Usage
 
-## Usage
-
 ### 1. Adding Income and Expenses
 
 - To add income, follow the steps.

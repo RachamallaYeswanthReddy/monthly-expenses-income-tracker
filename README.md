@@ -52,7 +52,29 @@ The Monthly Expenses and Income Tracker is a web application built using Angular
 
 ## Usage
 
-Provide instructions on how to use your Monthly Expenses and Income Tracker, including how to add expenses and income and view monthly summaries.
+## Usage
+
+### 1. Adding Income and Expenses
+
+- To add income, follow the steps.
+  - Provide the source(description), and amount of the income.
+  - Click "Add" to add the income entry.
+
+- To add expenses, follow the steps.
+  - Enter the category(description), and amount for the expense.
+  - Click "Add" to add the expense entry.
+
+### 2. Managing Transactions
+
+- You can manage your income and expense transactions:
+  - Edit transactions if you made a mistake or need to update details.
+  - Delete transactions that are no longer relevant.
+
+### 3. Available Balance
+
+- The application calculates and displays your available balance based on your income and expenses.
+  - You can see the updated available balance after each transaction.
+  
 
 ## Technologies Used
 
